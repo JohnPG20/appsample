@@ -1,0 +1,32 @@
+html {
+    font-size: 50px;
+    font-family: "Square Peg", cursive;
+    background-color: pink;
+}
+p {
+    color: rebeccapurple;
+    width: 500px;
+    border: 1px solid black;
+}
+li {
+    color: red;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+}
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
